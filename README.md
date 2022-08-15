@@ -1,4 +1,5 @@
 # Image-Denoising
+
 Image denoising using different methods and comparing their results using SSIM and MSE
 
 Image denoising is a significant challenge in image processing and computer vision, where the goal is to improve an image's quality by removing as much noise as possible. It's utilized in a variety of applications, including image classification, restoration, and visual tracking.
@@ -13,3 +14,5 @@ Below are the comparison results of the first 4 images in each level
 
 
 NOTE : The code is designed to compare and display only a few images from each category. Change the loop to compare all images.
+
+> Copyright 2022 Rishil Darne

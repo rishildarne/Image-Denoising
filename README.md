@@ -10,3 +10,6 @@ The input data consists of 25 photos with three distinct levels of noise: 10%, 2
 Below are the comparison results of the first 4 images in each level
 
 ![image](https://user-images.githubusercontent.com/101949683/184731261-01946b2a-9e97-4a38-b1cc-51438ac2d70a.png)
+
+
+NOTE : The code is designed to compare and display only a few images from each category. Change the loop to compare all images.
